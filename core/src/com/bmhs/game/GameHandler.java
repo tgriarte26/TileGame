@@ -11,7 +11,7 @@ import com.bmhs.game.gfx.assets.screens.TitleScreen;
 
 public class GameHandler implements ApplicationListener {
 	public SpriteBatch batch;
-	//public Skin sken;
+	//public Skin skin;
 	public float deltaTime;
 	protected Screen screen;
 	@Override
